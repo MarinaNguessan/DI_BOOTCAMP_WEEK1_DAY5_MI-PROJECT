@@ -1,0 +1,87 @@
+
+.navb{
+    background-color:#DC831D;
+
+   
+}
+
+.head_img{
+    background-image: url(images/headerback.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.title{
+    color:#DC831D;
+}
+.text{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+/* 
+.bouton{
+   background-color:#DC831D;
+} */
+.btn-primary{
+    background-color: #DC831D !important ;
+    color: white;
+}
+
+.titre_about{
+    text-align: center;
+    color:#DC831D ;
+}
+.img_text{
+    display: flex;
+    justify-content: center;
+}
+
+.image{
+    border-radius: 150%;
+}
+
+.description{
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+
+.div_image{
+  margin-top:2%;
+}
+
+.post{
+    text-align: center;
+}
+.nom{
+    color: rgb(4, 158, 4);
+}
+
+.trait{
+    border-left: 2px solid rgb(4, 158, 4);
+    margin-left: 5%;
+}
+
+.port_img{
+    height:350px;
+    width: 100%;
+    text-align:center
+}
+
+.title-color{
+    color: #DC831D;
+}
+
+.nomPrenom{
+    border-radius: 2px 2px 0 200px;
+    background-color: #DC831D;
+    color: #fff;
+}
+
+.btn-primary{
+    background-color: #DC831D!important;
+    border: 1px solid #DC831D!important;
+}
